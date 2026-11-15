@@ -40,7 +40,7 @@
   "info.hashedSeed": "Hash'lanmış seed",
   "info.noHashedSeed": "Hiç hash'lanmış seed bulunamadı",
   "fetchedHashedSeed": "Bu boyutta dünya seed'i farklı",
-  "foundRestorableStructures": "Önceki oturumdan %s yapı(lar) bulundu. Şu komut ile kurtarın: /seedcracker data restore",
+  "foundRestorableStructures": "Önceki oturumdan %s yapı(lar) bulundu. Şu komut ile kurtarın: /pqp data restore",
   "foundStructureSeed": "Yapı seed'i bulundu: ${SEED}",
   "finishedSearchNoResult": "Arama sonuç bulunamadan tamamlandı.",
   "crossCompare": "Seed'ler çapraz-karşılaştırma ile karşılaştırıldı ve ${SEED}'a azaltıldı",
